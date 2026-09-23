@@ -5,7 +5,8 @@
     "name": "CHIIKAWA LIVE",
     "isNew": true,
     "type": "live",
-    "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Character_and_pet_playing_ball_20260923211356.mp4"
+    "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Character_and_pet_playing_ball_20260923211356.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/8.png"
   },
   {
     "id": "401",
@@ -13,7 +14,7 @@
     "isNew": true,
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Character_jumping_on_bed_20260923205605.mp4",
-    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260430/2ee5b531d45fd68b980091430039c667.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/2.png"
   },
    {
     "id": "402",
@@ -21,7 +22,7 @@
     "isNew": true,
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Character_walks,_waves,_and_jumps_20260923211047.mp4",
-    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260430/6369998d4bb825d44a00690b19d4e8ef.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/7.png"
   },
   {
     "id": "403",
@@ -29,7 +30,7 @@
     "isNew": true,
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Character_waving_20260923205231.mp4",
-    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260822/87cc30657fb111e52945925d70643578.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/5.png"
   },
     {
     "id": "404",
@@ -37,7 +38,7 @@
     "isNew": true,
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Character_waving_in_animation_20260923205159.gif",
-    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260812/68c5179d8aa6fb3d9f67b656f4d3fbc9.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/1.png"
   },
     {
     "id": "405",
@@ -45,7 +46,7 @@
     "isNew": true,
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Character_waving_in_animation_20260923205231.mp4",
-    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260812/6b0e6c318a43c584c7514e0a2bdfcebd.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/1.png"
   },
     {
     "id": "406",
@@ -53,14 +54,15 @@
     "isNew": true,
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Girl_waving_with_floating_items_20260923210439.mp4",
-    "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Girl_waving_with_floating_items_20260923210439.mp4"
+    "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/5.png"
   },
     {
     "id": "407",
     "name": "CHIIKAWA LIVE",
     "isNew": true,
     "type": "live",
-    "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Paper_hills_clouds_and_trees_20260923205658.mp4"
+    "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Paper_hills_clouds_and_trees_20260923205658.mp4",
+       "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/6.png"
   },
     {
     "id": "408",
@@ -68,14 +70,15 @@
     "isNew": true,
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Toca_Boca_character_flipping_pan…_20260923210126.mp4",
-    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260430/5742372f654f8ac4729d015113b0e5f0.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/4.png"
   },
     {
     "id": "409",
     "name": "CHIIKAWA LIVE",
     "isNew": true,
     "type": "live",
-    "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Toca_Boca_character_standing_in_20260923205918.mp4"
+    "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Toca_Boca_character_standing_in_20260923205918.mp4",
+       "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/3.png"
   },
     {
     "id": "410",
