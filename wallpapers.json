@@ -33,20 +33,20 @@
     "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/1.png"
   },
     {
-    "id": "404",
+    "id": "426",
     "name": "TOCA BOCA LIVE",
     "isNew": true,
     "type": "live",
-    "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Character_waving_in_animation_20260923205159.gif",
-    "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/1.png"
+    "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/48.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/48.png"
   },
     {
-    "id": "405",
+    "id": "427",
     "name": "TOCA BOCA LIVE",
     "isNew": true,
     "type": "live",
-    "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/Character_waving_in_animation_20260923205231.mp4",
-    "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/1.png"
+    "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/49.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/49.png"
   },
     {
     "id": "406",
@@ -97,12 +97,12 @@
     "thumbnail": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/10.png"
   },
    {
-    "id": "411",
-    "name": "CHIIKAWA LIVE",
+    "id": "426",
+    "name": "TOCA BOCA LIVE",
     "isNew": true,
     "type": "live",
-    "url": "https://r2.chiikawawallpaper.com/live/20260812/fe8c3ef1ce32ec74b3e33f9c0189b71c.mp4",
-    "thumbnail": "https://r2.chiikawawallpaper.com/live/20260812/228e507eaa702c8e70e05761a559fc28.jpg"
+    "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/48.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/48.webp"
   },
    {
     "id": "412",
