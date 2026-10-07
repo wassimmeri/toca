@@ -38,7 +38,7 @@
     "isNew": true,
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/48.mp4",
-    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/48.png"
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/48.webp"
   },
     {
     "id": "427",
@@ -46,7 +46,7 @@
     "isNew": true,
     "type": "live",
     "url": "https://raw.githubusercontent.com/wassimmeri/toca/refs/heads/%40main/images/49.mp4",
-    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/49.png"
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/49.webp"
   },
     {
     "id": "406",
@@ -826,13 +826,13 @@
     "id": "66",
     "name": "TOCA BOCA",
     "isNew": true,
-    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/48.png"
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/48.webp"
   },
     {
     "id": "67",
     "name": "TOCA BOCA",
     "isNew": true,
-    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/49.png"
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/toca@main/images/49.webp"
   },
     {
     "id": "68",
